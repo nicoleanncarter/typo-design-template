@@ -2,7 +2,7 @@
 layout: post
 title: Here is a blog post sample
 date: 2020-06-24 17:50
-image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+image: ../uploads/carl-heyerdahl-ke0nc8-58mq-unsplash.jpg
 caption: Cobbles
 ---
 
