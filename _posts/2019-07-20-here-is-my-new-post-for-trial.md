@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: "Illustrate first article name "
 date: 2020-06-24 17:50
 image: ../uploads/carl-heyerdahl-ke0nc8-58mq-unsplash.jpg
-caption: Cobbles
+caption: Imac
 ---
 
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
