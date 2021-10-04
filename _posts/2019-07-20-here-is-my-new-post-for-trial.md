@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TypeBright
+title: TypeSmart
 date: 2020-06-24 17:50
 image: ../uploads/carl-heyerdahl-ke0nc8-58mq-unsplash.jpg
 caption: Imac
