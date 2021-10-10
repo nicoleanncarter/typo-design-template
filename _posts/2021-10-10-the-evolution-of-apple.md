@@ -2,18 +2,26 @@
 layout: post
 title: The Evolution of Apple
 date: 2021-10-10T10:49:20.865Z
-image: ../uploads/mediamodifier-ilgb-pg9wf0-unsplash.jpg
-title_color: "#000000"
-caption: The Input typorgraphy has in their success
+image: ../uploads/photo-1503852460961-aa7ffdd3d64d.webp
+title_color: "#ffffff"
+caption: ""
 comments: false
 ---
+# The Input typography has in their success
+
 After being named the most ‘valuable’ company in 2021, Apple is also the world’s largest technology company. It is undeniable that each product they produce continues to be a huge success, yet, what ensures they are always so up to date with the ever-changing world of technology?
 
 Apple is noticed to continuously produce the most modern designs/creations and their font choice reflects this. 
 
 Back in the early 2000s, Apple provided two font families across their products; this included San Francisco (SF) and New York (NY) – both being legible and neutral which were ‘designed to match the visual clarity of the platform’. 
 
+![](../uploads/1-hx9owwhhi55sd7yiba27bg.png)
+
 San Francisco is a sans serif font which is very common for digital screens whilst interestingly, New York is a serif font said to have been designed to complement San Francisco. They claimed to have designed these typefaces to support an extensive range of weights, sizes, styles, and languages. Despite this type being the most associated to Apple; in 2015, they ‘abandoned the world’s most beloved typeface’ (an article headlined) and moved forward with Helvetica Neue.
+
+![](../uploads/1-hzs5qtcfxgqtiwctbngggq.jpeg)
+
+> "Apple is really really behind when it comes to typography" - Erik Spiekermann
 
 Despite many apple enthusiast beliefs, German typographer Erik Spiekermann believes ‘Apple is really, really behind when it comes to typography’ as google introduced its custom font, Roboto, in 2011. This seems harsh considering apple dominates many areas in the world of technology however, other programmers such as Tal Leming also believe San Francisco holds many faults. For instance, ‘the top of the 6 loops so far down that it can be mistaken for an 8’ – despite this seemingly being a minor fault, for a company as big as Apple, these minor issues should be avoided. Apple clearly took note of this feedback as Helvetica Neue is simply an ‘upgraded’ version of the original type.
 
