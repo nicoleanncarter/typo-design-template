@@ -11,19 +11,19 @@ comments: true
 
 Apple is noticed to continuously produce the most modern designs/creations and their font choice reflects this. Back in the early 2000s, Apple provided two font families across their products; this included San Francisco (SF) and New York (NY) – both being legible and neutral which were ‘designed to match the visual clarity of the platform’. 
 
-![This is the variations of the previous apple fonts and how/where they are best used ](../uploads/1-hx9owwhhi55sd7yiba27bg.png)
+![](../uploads/1-hx9owwhhi55sd7yiba27bg.png)
 
 San Francisco (SF) is a sans serif font which is very common for digital screens whilst interestingly, New York (NY)is a serif font said to have been designed to complement San Francisco. They claimed to have designed these typefaces to support an extensive range of weights, sizes, styles, and languages. Despite this type being the most associated to Apple; in 2015, they ‘abandoned the world’s most beloved typeface’ (an article headlined) and moved forward with Helvetica Neue.
 
-![As pictured, the fonts remain to work with the new edition of the Apple Watch ](../uploads/sanfrancisco.jpg)
+> #### "Apple is really really behind when it comes to typography" - *Erik Spiekermann*
 
-> "Apple is really really behind when it comes to typography" - *Erik Spiekermann*
-
-Despite many apple enthusiast beliefs, German typographer Erik Spiekermann's belief stems from google introducing their custom font, Roboto, in 2011. This seems harsh considering apple dominates many areas in the world of technology however, other programmers such as Tal Leming also believe San Francisco holds many faults. For instance, ‘the top of the 6 loops so far down that it can be mistaken for an 8’ – despite this seemingly being a minor fault, for a company as big as Apple, these minor issues should be avoided. Apple clearly took note of this feedback as Helvetica Neue is simply an ‘upgraded’ version of the original type.
+Despite many apple enthusiast beliefs, German typographer Erik Spiekermann's belief stems from google introducing their custom font, Roboto, in 2011. This seems harsh considering Apple dominates many areas in the world of technology however, other programmers such as Tal Leming also believe San Francisco holds many faults. For instance, ‘the top of the 6 loops so far down that it can be mistaken for an 8’ – despite this seemingly being a minor fault, for a company as big as Apple, these minor issues should be avoided. Apple clearly took note of this feedback as Helvetica Neue is simply an ‘upgraded’ version of the original type.
 
 ![San Francisco (On the left) vs Helvetica (On the right)](../uploads/alternate-6-and-9-san-francisco-font.png)
 
 Whose fortune and success rely strongly on its commitment to design, Apple kept this transformation very low-key. Twitter was filled with dedicated fans debating whether the leaked photos of the new products included San Francisco or Helvetica Neue light. However, fans criticized the rumours of this new choice as they claimed the font was ‘too light, too thin and too small for lower-res screens’ therefore Apple subtly ditched the Neue light in favour of the meatier Helvetica Neue.
+
+![Helvetica Neue on the Apple Watch ](../uploads/sanfrancisco.jpg)
 
 The differences between Helvetica Neue and San Francisco are minimal, even to a professional eye, but they exist. Despite the weights being similar and both fonts remaining a sans serif, San Francisco is bolder and friendlier than Helvetica Neue. San Francisco gives character allowing it to be easily read on relatively small screens. The smaller and skinnier appearance makes it space-efficient, similarly to Google’s typeface. So why did Apple switch to less-efficient sizing? 
 
