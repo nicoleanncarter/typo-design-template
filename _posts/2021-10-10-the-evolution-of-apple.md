@@ -19,8 +19,6 @@ San Francisco (SF) is a sans serif font which is very common for digital screens
 
 > "Apple is really really behind when it comes to typography" - *Erik Spiekermann*
 
-
-
 Despite many apple enthusiast beliefs, German typographer Erik Spiekermann's belief stems from google introducing their custom font, Roboto, in 2011. This seems harsh considering apple dominates many areas in the world of technology however, other programmers such as Tal Leming also believe San Francisco holds many faults. For instance, ‘the top of the 6 loops so far down that it can be mistaken for an 8’ – despite this seemingly being a minor fault, for a company as big as Apple, these minor issues should be avoided. Apple clearly took note of this feedback as Helvetica Neue is simply an ‘upgraded’ version of the original type.
 
 ![San Francisco (On the left) vs Helvetica (On the right)](../uploads/alternate-6-and-9-san-francisco-font.png)
