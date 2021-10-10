@@ -2,8 +2,8 @@
 layout: post
 title: The Evolution of Apple
 date: 2021-10-10T10:49:20.865Z
-image: ../uploads/tyler-lastovich-e31and1pxuw-unsplash.jpg
-title_color: "#ffffff"
+image: ../uploads/mediamodifier-ilgb-pg9wf0-unsplash.jpg
+title_color: "#000000"
 caption: The Input typorgraphy has in their success
 comments: false
 ---
