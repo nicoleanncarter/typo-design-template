@@ -4,12 +4,10 @@ title: The Evolution of Apple
 date: 2021-10-10T10:49:20.865Z
 image: ../uploads/photo-1503852460961-aa7ffdd3d64d.webp
 title_color: "#ffffff"
-caption: ""
+caption: The Input typography has in their success
 comments: true
 ---
-## The Input typography has in their success
-
-### After being named the most ‘valuable’ company in 2021, Apple is also the world’s largest technology company. It is undeniable that each product they produce continues to be a huge success, yet, what ensures they are always so up to date with the ever-changing world of technology?
+#### After being named the most ‘valuable’ company in 2021, Apple is also the world’s largest technology company. It is undeniable that each product they produce continues to be a huge success, yet, what ensures they are always so up to date with the ever-changing world of technology?
 
 Apple is noticed to continuously produce the most modern designs/creations and their font choice reflects this. Back in the early 2000s, Apple provided two font families across their products; this included San Francisco (SF) and New York (NY) – both being legible and neutral which were ‘designed to match the visual clarity of the platform’. 
 
