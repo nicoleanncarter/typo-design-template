@@ -2,7 +2,7 @@
 layout: post
 title: The Evolution of Apple
 date: 2021-10-10T10:49:20.865Z
-image: ../uploads/photo-1503852460961-aa7ffdd3d64d.webp
+image: ../uploads/fonts-og-twitter.jpg
 title_color: "#ffffff"
 caption: The Input typography has in their success
 comments: true
