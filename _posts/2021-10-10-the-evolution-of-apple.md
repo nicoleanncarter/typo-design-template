@@ -2,7 +2,7 @@
 layout: post
 title: The Evolution of Apple
 date: 2021-10-10T10:49:20.865Z
-image: ../uploads/fonts-og-twitter.jpg
+image: ../uploads/marek-levak-_r8kp1vj97q-unsplash.jpg
 title_color: "#ffffff"
 caption: The Input typography has in their success
 comments: true
@@ -15,7 +15,7 @@ Apple is noticed to continuously produce the most modern designs/creations and t
 
 San Francisco (SF) is a sans serif font which is very common for digital screens whilst interestingly, New York (NY)is a serif font said to have been designed to complement San Francisco. They claimed to have designed these typefaces to support an extensive range of weights, sizes, styles, and languages. Despite this type being the most associated to Apple; in 2015, they ‘abandoned the world’s most beloved typeface’ (an article headlined) and moved forward with Helvetica Neue.
 
-
+![As pictured, the fonts remain to work with the new edition of the Apple Watch ](../uploads/sanfrancisco.jpg)
 
 > "Apple is really really behind when it comes to typography" - *Erik Spiekermann*
 
