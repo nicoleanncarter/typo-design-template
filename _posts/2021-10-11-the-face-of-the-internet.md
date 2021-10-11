@@ -2,6 +2,7 @@
 layout: post
 title: "The face of the internet "
 date: 2021-10-11T10:03:18.082Z
+image: ../uploads/arkan-perdana-ektlh4_u7ao-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
