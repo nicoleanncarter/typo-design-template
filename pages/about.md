@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: Why TypeSmart?
 image: ../uploads/nordwood-themes-q8u1ygbarqk-unsplash.jpg
-subtitle: ""
+subtitle: The Story behind the creation
 permalink: /about/
 date: 2021-09-30T12:03:17.225Z
 layout: page
