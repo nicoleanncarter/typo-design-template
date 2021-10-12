@@ -13,6 +13,10 @@ show: true
 ---
 #### **The purpose of this blog is to explore the typographic choices of big technology brands and how they continue to stay up-to-date with modern generations. It also touches on the input this has into their success and overlooks failed company branding efforts into staying align with new-age media.**
 
+**What does my blog target?**
+
+##### TypeSmart analyses how typography contributes to brand success and the link between their branding and what they offer. It zooms into typefaces and what they connote whilst also suggesting why a certain font may make you feel a particular way. 
+
 **What made me choose 'TypeSmart'?**
 
 ##### 'Type' demonstrates the exploration of typography whilst 'Smart' focuses on the technological emphasis. The smart also connotates the chosen brand’s ability to remain modern throughout the unpredictable changes.
