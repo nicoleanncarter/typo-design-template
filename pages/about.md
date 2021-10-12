@@ -21,7 +21,7 @@ What Inspired the logo?
 
 ###### When illustrating my brand, I pictured it to be a very modern, sleek design. This is because I wanted to emphasise my focus on the new generation. I believe my logo has captured this view whilst remaining simple yet effective. I originally started with just the ‘TS’ then recognised I wanted to illustrate the technological link. Therefore I added the smart phone silohette in the background as it is an ingenuous way of communicating the link of my blog to tech.
 
-![](../uploads/untitled-15.png)
+![The logo which I designed using Illustrator](../uploads/untitled-15.png)
 
 What Inspired the homepage image?
 
