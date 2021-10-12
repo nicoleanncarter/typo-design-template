@@ -2,7 +2,7 @@
 layout: post
 title: "The Face of the Internet "
 date: 2021-10-11T10:03:18.082Z
-image: ../uploads/solen-feyissa-uwvjadvxw_c-unsplash.jpg
+image: ../uploads/arkan-perdana-ektlh4_u7ao-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
