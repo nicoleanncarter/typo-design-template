@@ -7,11 +7,9 @@ title_color: "#ffffff"
 caption: ""
 comments: false
 ---
-
-
 ![](../uploads/msword-fonttype.jpg)
 
-\Calibri has been the default font for all things Microsoft since 2007, when it stepped in to replace Times New Roman across Microsoft Office. Comparing Times New Roman with Calibri, it is clear as to why they decided to 'upgrade'. Calibri is a modern sans serif typeface which features subtly rounded stems and corners that are visible at larger sizes - perfect for online platforms. The font was released in 2007 after being designed with Microsoft since 2004. In comparison to this, Times New Roman is a serif typeface - It was commissioned by the British newspaper The Times in 1931. This already holds timely values which the new 21st century font doesn't. Joe Friend, a program manager on Word for Office 2007's release, explained that the decision to switch to Calibri was caused by a desire to make the default font one optimised towards onscreen display.
+###### Calibri has been the default font for all things Microsoft since 2007, when it stepped in to replace Times New Roman across Microsoft Office. Comparing Times New Roman with Calibri, it is clear as to why they decided to 'upgrade'. Calibri is a modern sans serif typeface which features subtly rounded stems and corners that are visible at larger sizes - perfect for online platforms. The font was released in 2007 after being designed with Microsoft since 2004. In comparison to this, Times New Roman is a serif typeface - It was commissioned by the British newspaper The Times in 1931. This already holds timely values which the new 21st century font doesn't. Joe Friend, a program manager on Word for Office 2007's release, explained that the decision to switch to Calibri was caused by a desire to make the default font one optimised towards onscreen display.
 
 ![](../uploads/61254a9f762dd5126002f816_best-times-new-roman-alternatives-7-2.jpg)
 
