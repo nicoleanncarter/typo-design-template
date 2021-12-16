@@ -2,15 +2,15 @@
 layout: post
 title: "Subtitles and why we choose them "
 date: 2021-09-30T10:42:13.044Z
-image: ../uploads/subtitles_900.jpg.webp
+image: ../uploads/istock-1175415533reto2lr.jpg
 title_color: "#ffffff"
 comments: false
 ---
-#### Have you ever noticed what font the subtitle you’re reading is? Whether that be on your 50” TV or your 4” smartphone?
+##### Have you ever noticed what font the subtitle you’re reading is? Whether that be on your 50” TV or your 4” smartphone?
 
 Here are two of the main fonts commonly chosen for subtitles:
 
-##### ***1. Arial***
+###### ***1. Arial***
 
 It is almost guaranteed that you would have stumbled across this font at some point in your life – maybe even on multiple occasions in different scenarios. 
 
