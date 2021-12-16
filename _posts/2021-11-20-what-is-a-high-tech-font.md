@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a high tech font?
-date: 2021-10-12T09:35:00.000Z
+date: 2021-09-15T09:35:00.000Z
 image: ../uploads/high_tecch_logo_v06_preview_img.jpg.webp
 title_color: "#ffffff"
 comments: false
