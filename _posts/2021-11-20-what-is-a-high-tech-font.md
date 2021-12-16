@@ -21,3 +21,11 @@ Below is an experiment; using the website ‘Fontspace’ which includes many di
 Choosing a singular word, here is how a selection of these futuristic types compare. 
 
 ![](../uploads/screenshot-2021-12-16-at-10.56.17.png)
+
+As you can see, each font has aspects removed; This idea is futuristic as it adapts to the idea that ‘less is more’. The design in the top left portrays the ‘E’ by simply using three bold lines. Despite this missing most of the letter – it is still recognisable to the modern eye. Our brains are often flooded with over-complex styles therefore they attempt to find the easiest interpretation. Because of the similarities presented in each, our brains can easily understand what the design is attempting to represent and mimic.
+
+One of the most popular high-tech fonts is Proxima Nova. Proxima Nova was created in the United States in 2005 by Mark Siminson. According to Simonson, Proxima Nova is 'a sans-serif style font that lies between Future and Akzidenz-Grotesk[](https://en.99designs.com.co/blog/resources/logo-fonts/ "39 logo fonts everyone should know - 99designs Blog").' It balances modern proportions and classic geometry. It is used by major brands like Spotify, Twitter and Buzzfeed. This is a logo font that is suitable for businesses that use a lot of social media or want a modern internet presecnce. Many fonts similar to Proxima Nova exist which is slowly turning the old into the new and futurising all the brands/fonts we are familiar with.
+
+![](../uploads/word-image-515.png)
+
+What will come next?
