@@ -2,7 +2,7 @@
 layout: post
 title: What is a high tech font?
 date: 2021-09-15T09:35:00.000Z
-image: ../uploads/high_tecch_logo_v06_preview_img.jpg.webp
+image: ../uploads/man-future-high-tech-smart-glasses-concept-82071187.jpg
 title_color: "#ffffff"
 comments: false
 ---
