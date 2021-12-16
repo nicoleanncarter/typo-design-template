@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Future of Calibri "
-date: 2021-10-27T11:03:39.378Z
+date: 2021-09-09T11:03:39.378Z
 image: ../uploads/banner-image30-26.jpg
 title_color: "#ffffff"
 caption: ""
