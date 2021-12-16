@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtitles and why we choose them "
-date: 2021-10-27T10:42:13.044Z
+date: 2021-09-30T10:42:13.044Z
 image: ../uploads/subtitles_900.jpg.webp
 title_color: "#ffffff"
 comments: false
