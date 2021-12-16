@@ -2,7 +2,7 @@
 layout: post
 title: "The Future of Calibri "
 date: 2021-09-09T11:03:39.378Z
-image: ../uploads/banner-image30-26.jpg
+image: ../uploads/beyond-calibri-finding-microsofts-next-default-font.png
 title_color: "#ffffff"
 caption: ""
 comments: false
