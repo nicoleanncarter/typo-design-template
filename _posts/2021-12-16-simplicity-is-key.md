@@ -20,8 +20,6 @@ This is one of the primary reasons that simplicity in design has grown in popula
 
 Common forms of simple typography include minimalistic designs which use clean lines, sharp edges and soft curves; conveying a clean and simple feel to the reader. This style is simply done using sans-serif or slab fonts. The goal of minimalist typography is to give you enough space to read and to truly comprehend what you're reading. If a brand can draw your attention with one heading in the morning, more so than the unnecessary information on the side of your fridge – they are succeeding.
 
-![](../uploads/excited-man-looking-at-his-smart-phone-free-photo.jpg)
-
 Overall, Simplicity in design allows viewers to rest. If you are able to grasp your viewers’ attention and ensure they digest your information – you have successfully trapped your reader. Take a look at some examples of how famous brands have adapted to this new style of living over the years – I know which one I find more appealing – what about you?
 
 ![](../uploads/highxtar_new_logos_fashion_industry_2.jpg)
